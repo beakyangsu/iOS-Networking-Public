@@ -1,6 +1,8 @@
 
 > ### reference : https://appstuff.teachable.com/courses/enrolled/2176637
 
+The full code is [iOS-Networking-private](https://github.com/beakyangsu/iOS-Networking-private). The reason for locking it is to protect the copyright of the original author since the reference lectures are paid.
+
 <a href="https://github.com/beakyangsu/iOS-Networking/blob/main/README.md"><img alt="Static Badge" src="https://img.shields.io/badge/switch_to-readme_kr-white?style=plastic&link=https://github.com/beakyangsu/iOS-Networking/blob/main/README.md">
 
 ![iOS badge](https://img.shields.io/badge/iOS-15.0%2B-green)
